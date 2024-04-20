@@ -24,5 +24,4 @@ The objective of this part of the Practice Assignment is to analyze and visualiz
  - Customize the previous pie plot for a better visual representation
  - develop a histogram of the mean estimated fire brightness
  - distribution of estimated fire brightness across regions by hue
- - 
-scatter plot to find the correlation between mean estimated fire radiative power and mean confidence level
+scatter plot to find the correlation between mean estimated fire radiative power and mean confidence leve
